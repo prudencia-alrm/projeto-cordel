@@ -75,7 +75,7 @@ section.imagem {
     box-shadow: inset6px 6px 13px 0px black;
 }
 section.imagem > p {
-  background-color: rgba(0, 0, 0, 0.322);
+  background-color: rgba(0, 0, 0, 0.295);
   display: inline-block;
   margin-left: -4px;
   padding: 15px;
