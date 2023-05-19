@@ -32,7 +32,7 @@ header {
 header > h1 {
     padding: 50px;
     font-variant: small-caps;
-    font-family: var(--font2);
+    font-family: var(--font1);
     font-size: 5vw;
     margin: auto;
 
